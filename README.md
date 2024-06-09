@@ -44,19 +44,13 @@ https://github.com/Paarth-Chandan/ELearningBackend/assets/135144621/c4800640-1cf
 
 ### Frontend Setup
 
-1. Navigate to the frontend directory:
-
-    ```sh
-    cd ../frontend
-    ```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
     ```sh
     npm install
     ```
 
-3. Start the frontend development server:
+2. Start the frontend development server:
 
     ```sh
     npm start
@@ -67,8 +61,8 @@ https://github.com/Paarth-Chandan/ELearningBackend/assets/135144621/c4800640-1cf
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Paarth-Chandan/ELearningFrontend.git
-    cd ELearningFrontend
+    git clone https://github.com/Paarth-Chandan/ELearningBackend.git
+    cd ELearningBackend
     ```
 
 2. Set up MySQL database:
