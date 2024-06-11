@@ -16,7 +16,7 @@ The E-Learning website provides a platform for students to access various course
 
 ## Video
 
-https://github.com/Paarth-Chandan/ELearningBackend/assets/135144621/c4800640-1cf4-401a-a7bf-c9fc32966d82
+https://github.com/Paarth-Chandan/ELearningBackend/assets/135144621/a7cd05dc-40b8-4500-9af2-56abdc97a5e0
 
 ## Technologies Used
 
